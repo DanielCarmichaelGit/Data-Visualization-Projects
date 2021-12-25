@@ -1,5 +1,5 @@
 // import statements
-let generatedData = require('../JavaScript/dataGeneration.js');
+let generatedData = require('./dataGeneration.js');
 var data = generatedData.data
 
 // array of array of coordinates
