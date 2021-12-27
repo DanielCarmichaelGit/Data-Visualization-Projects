@@ -49,5 +49,3 @@ function coordinates() {
 
 coordinates();
 console.log(separatedValues)
-
-exports.

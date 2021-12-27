@@ -44,7 +44,7 @@ allData.push(zs);
 allData = JSON.stringify(allData)
 
 try {
-    fs.writeFileSync('./JavaScript/data.js', allData)
+    fs.writeFileSync('Randomizer/JavaScript/data.js', allData)
     //file written successfully
   } catch (err) {
     console.error(err)
